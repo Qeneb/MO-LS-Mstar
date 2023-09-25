@@ -1,4 +1,4 @@
-This a repository about MO-LS-M* which is an algorithm to solve MOMAPF-AA.
+This a repository about MO-LS-M* which is an algorithm to solve Multi-Objective Multi-Agent Path Finding-Asynchronous Action (MOMAPF-AA) problem.
 
 `run_exmaple.py` is the entry of the algorithm. 
 
